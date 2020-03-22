@@ -16,7 +16,7 @@ body  {
     <?php include('entete.php'); ?>	
     <!-- Section -->	
 <section>
-<h2>Modifier Par Nohaila Mziguel</h2> 
+<h2>Modifier Par Nohaila Mziguel </h2> 
     <article>	
             <HR color=#111>
             <p class="style-titre1" style="text-align:center;">Lundi 	</p>				
